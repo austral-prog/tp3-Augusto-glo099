@@ -1,5 +1,5 @@
 def check_vowels():
-    nombre = input("Ingresa un nombre: ")
+    nombre = input("corsa ")
     nombre = nombre.lower()
     contiene_a = nombre.count('a') > 0
     contiene_e = nombre.count('e') > 0
@@ -11,4 +11,4 @@ def check_vowels():
     print(f"Contiene i: {contiene_i}")
     print(f"Contiene o: {contiene_o}")
     print(f"Contiene u: {contiene_u}")
-check_vowels()
+#check_vowels()

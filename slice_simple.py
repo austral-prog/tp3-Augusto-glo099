@@ -7,4 +7,4 @@ def slice_simple():
     print(primeras_tres)
     print(media_tres)
     print(primera_a_cuarta)
-slice_simple()
+#slice_simple()
